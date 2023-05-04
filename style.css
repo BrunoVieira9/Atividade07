@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;900&display=swap');
+
+
+.titulo{
+    font-family:'Roboto', sans-serif;
+    text-align: center;
+    font-weight: 900;
+    font-style: normal; 
+    background-color: black;
+    color: white;
+}
+
+.texto{
+    text-align: justify;
+    font-family:'Roboto', sans-serif;
+    font-style: italic;
+    text-transform: initial;
+    font-size:medium;
+    text-decoration:double;
+    
+}
+
+.inicio{
+    background-color: rgb(209, 209, 161);
+    font-family: 'Roboto', sans-serif;
+}
+
+.carreira{
+    background-color: rgb(209, 209, 161);
+    font-family: 'Roboto', sans-serif;
+}
+
+.fla{
+    background-color: rgb(243, 48, 48);
+    font-family: 'Roboto', sans-serif;
+}
+
+.real{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(125, 125, 194);
+
+}
+
+
